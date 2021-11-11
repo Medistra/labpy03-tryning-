@@ -1,6 +1,6 @@
 # labpy03 (Algoritma/ Penjelasan)
 
-## latihan1
+# latihan1
 ## Program untuk menampilkan n bilangan acak yanng lebih kecil dari 0.5
 
 ### penjelasan alur program:
@@ -29,7 +29,7 @@ setelah membuat program, kemudian "RUN" program dan masukan nilai N (Berapa bany
 SELESAI
 
 
-## latihan2
+# latihan2
 ## Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
 
 ### Penjelasan alur program:
