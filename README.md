@@ -55,7 +55,7 @@ Masukan program untuk menampilkan bilangann terbesar dari sebuah data yang di in
 
 ### Berikut contoh gambar programnya:
 
-![Gambar 3](scrreenshot/ss3.png)
+![Gambar 3](screenshot/ss3.png)
 
 Setelah membuat program, kemudian "RUN" program dan masukan  nilai yang di  inginkan satu persatu. Data akan langsung terhenti dan akan menampilkan hasil jika telah menginput nilai 0 (nol).
 
